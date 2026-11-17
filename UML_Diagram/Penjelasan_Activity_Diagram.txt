@@ -1,0 +1,1 @@
+Activity diagram (diagram aktivitas) adalah salah satu jenis diagram dalam Unified Modeling Language (UML) yang digunakan untuk memodelkan alur kerja (workflow) atau proses bisnis dari suatu sistem secara dinamis
