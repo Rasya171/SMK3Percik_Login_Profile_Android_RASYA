@@ -1,0 +1,1 @@
+Use Case Login adalah representasi fungsional dalam perancangan sistem (UML) yang menggambarkan interaksi antara pengguna (aktor) dengan sistem untuk melakukan proses otentikasi identitas sebelum mengakses fitur-fitur utama di dalam aplikasi.
