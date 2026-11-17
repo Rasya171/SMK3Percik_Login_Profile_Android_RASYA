@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HlAvoX8BDFJPpomI4Ztz">
+    <mxGraphModel dx="2049" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qrqhg2WSIAHJlLA9aI5v-2" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="use case login" vertex="1">
+          <mxGeometry height="1010" width="390" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-7" edge="1" parent="1" source="Qrqhg2WSIAHJlLA9aI5v-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-8" edge="1" parent="1" source="Qrqhg2WSIAHJlLA9aI5v-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-9" edge="1" parent="1" source="Qrqhg2WSIAHJlLA9aI5v-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrqhg2WSIAHJlLA9aI5v-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="New member" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-12" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Mendaftar" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-2" edge="1" parent="1" source="Qrqhg2WSIAHJlLA9aI5v-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-13" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Masukkan email/kata sandi" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-14" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Validate" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-15" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="simpan data pengguna" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-18" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Login" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="663" as="sourcePoint" />
+            <mxPoint x="400" y="693" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="konfirmasi pembuatan akun" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-21" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Masukkan email kata sandi" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-22" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Validate" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="919" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="memberikan akses ke dasbor pengguna" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="1028" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-25" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="existing member" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-26" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-28" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-30" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-31" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-32" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="System" vertex="1">
+          <mxGeometry height="60" width="30" x="700" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="O89kJYntfH3erBGPalwq-29" edge="1" parent="1" source="O89kJYntfH3erBGPalwq-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="O89kJYntfH3erBGPalwq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
