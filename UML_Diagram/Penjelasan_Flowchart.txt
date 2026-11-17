@@ -1,0 +1,1 @@
+Flowchart proses login adalah diagram alur visual yang menggambarkan tahapan-tahapan yang terjadi ketika seorang pengguna mencoba masuk (login) ke dalam suatu sistem atau aplikasi, mulai dari memasukkan kredensial hingga sistem memberikan akses atau menampilkan pesan kesalahan
